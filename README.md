@@ -1,3 +1,8 @@
+## Forked 
+
+Forked from https://github.com/Ranjith-JS2803/Agentic-Chunker as I'm interested in the approach albeit expensive for some use-cases I might have ... looking to dockerise it and use my existing local vLLM endpoints and possibly modify it to fit into some local-work pipelines I'm playing with.
+
+
 ## Agentic Chunker
 
 Agentic Chunking involves taking a text and organizing its propositions into grouped "chunks." Each chunk is a collection of related propositions that are interconnected, allowing for more efficient processing and retrieval within a RAG system.
