@@ -1,0 +1,15 @@
+.git
+.github
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+.eggs
+dist
+build
+*.md
+!requirements.txt
+sample_text_data.txt
+AgenticChunker.py
+main.py
+logs/
