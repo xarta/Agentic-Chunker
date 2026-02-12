@@ -2,6 +2,9 @@
 
 Forked from https://github.com/Ranjith-JS2803/Agentic-Chunker as I'm interested in the approach albeit expensive for some use-cases I might have ... looking to dockerise it and use my existing local vLLM endpoints and possibly modify it to fit into some local-work pipelines I'm playing with.
 
+## Original README
+
+Below:
 
 ## Agentic Chunker
 
